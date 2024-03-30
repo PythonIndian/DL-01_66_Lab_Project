@@ -28,3 +28,12 @@ Estimate maximum screen time showing both Tom & Jerry in the show (continuously)
 
 # Challenges in the data
 There are images that can be challenged during training in image classification, as these images are distorted in the original size or shape and color of the characters. These image details are given in csv file - challenges.csv Doing error analysis on these images after model training, will help us understand how to improve the score.
+
+# Internal-01 
+Performed Preprocessing on dataset and done data augmentation on Kaggle explained the preprocessing and libraries to the subject teacher.
+
+# Internal-02 
+To perform 3 different models performed in prac-05 as given  perform various models on dataset and submit by 5th of April on GC.
+
+
+
